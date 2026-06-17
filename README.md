@@ -14,12 +14,6 @@
 - <a href="https://www.linkedin.com/company/inova-fusca">Kainan Bilibio Aguiar — RM570594</a>
 - <a href="https://www.linkedin.com/company/inova-fusca">Guilherme C. Ávila — RM571294</a>
 
-## 👩‍🏫 Professores:
-### Tutor(a)
-- Nome do Tutor
-### Coordenador(a)
-- Nome do Coordenador
-
 ## 📜 Descrição
 
 Em cooperativas agrícolas de pequeno porte, a classificação dos grãos costuma ser feita manualmente por especialistas, um processo demorado e sujeito a erros humanos. Este projeto aplica a metodologia **CRISP-DM** para automatizar essa classificação por meio de Machine Learning, utilizando o *Seeds Dataset* do UCI Machine Learning Repository, que contém 210 amostras de grãos de trigo de três variedades (**Kama**, **Rosa** e **Canadian**), descritas por sete medidas físicas (área, perímetro, compacidade, comprimento e largura do núcleo, coeficiente de assimetria e comprimento do sulco do núcleo).
