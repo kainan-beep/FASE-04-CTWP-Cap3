@@ -5,8 +5,8 @@
 ## FarmTech Solutions
 
 ## 👨‍🎓 Integrantes:
-- <a href="https://www.linkedin.com/company/inova-fusca">Kainan Bilibio Aguiar — RM570594</a>
-- <a href="https://www.linkedin.com/company/inova-fusca">Guilherme C. Ávila — RM571294</a>
+- <a href="https://www.linkedin.com/company/inova-fusca">Kainan Bilibio Aguiar</a>
+- <a href="https://www.linkedin.com/company/inova-fusca">Guilherme C. Ávila</a>
 
 ## 📜 Descrição
 
